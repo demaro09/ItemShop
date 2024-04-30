@@ -1,4 +1,7 @@
-{
+red shield,price 150 vbucks
+volley girl,price 0 vbucks
+orange justice,price 500
+
   "//": "BR Item Shop Config",
   "daily1": {
     "itemGrants": ["AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J"],
